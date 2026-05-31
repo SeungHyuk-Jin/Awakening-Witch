@@ -8,14 +8,30 @@
 이미지 클릭시 영상으로 이동합니다.</br>
 [![Video Label](https://i.ytimg.com/an_webp/b0vYmEOfEQE/mqdefault_6s.webp?du=3000&sqp=CM7ozL8G&rs=AOn4CLC78OEgwJXkCxSriwsrc0q0AqBrDg)](https://www.youtube.com/watch?v=b0vYmEOfEQE)
 
-### 개발일지
-[개발일지 링크](https://docs.google.com/spreadsheets/d/11sGyltalhDhb-OYo56ny35Z81IWBeZY4eidpiBHN3-M/edit?usp=sharing)
+### 전체 소개
+[![Game-introduction](images/Game-introduction.png)](images/Game-introduction.png)
+
+---
+
+### 기능 소개 1
+[![Game-function](images/Game-function.png)](images/Game-function.png)
+
+### 기능 소개 2
+[![Game-function2](images/Game-function2.png)](images/Game-function2.png)
+
+### 기능 소개 3
+[![Game-function3](images/Game-function3.png)](images/Game-function3.png)
+
+---
 
 ### 사용 기술
 | 이름                  | 버전    |
 |:---------------------:|:-------:|
 | C    		| MSVC 2019   |
 | Allegro	|  5.2.10.1  |
+
+### 코드 구조 소개
+[![Code](images/Code.png)](images/Code.png)
 
 ### 디렉토리 구조
 ```
