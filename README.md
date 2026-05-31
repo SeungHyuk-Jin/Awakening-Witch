@@ -34,8 +34,8 @@
 ```
 
 ### 팀 소개
-| [전동민](https://github.com/qwerrrqwerq) | [진승혁](https://github.com/DeliaBS123) | [하규승](https://github.com/CERabi/) | [조익현](https://github.com/cho2khyun) |
+| [전동민](https://github.com/qwerrrqwerq) | [진승혁](https://github.com/SeungHyuk-Jin) | [하규승](https://github.com/CERabi/) | [조익현](https://github.com/cho2khyun) |
 |:-------:|:-------:|:-------:|:-------:|
 | <img width="100px" alt="MEMBER1" src="https://avatars.githubusercontent.com/u/151756637?v=4" /> | <img width="100px" alt="MEMBER2" src="https://avatars.githubusercontent.com/u/205569657?v=4" /> | <img width="100px" alt="MEMBER3" src="https://avatars.githubusercontent.com/u/174900093?v=4&size=64" /> | <img width="100px" alt="MEMBER4" src="https://avatars.githubusercontent.com/u/89765162?v=4" /> |
 | 시작, 랭킹 시스템 개발 | 적, 아군 오브젝트 개발 | 코드 파편화, 통합 및 버전관리 | 점수, 상점 시스템 개발 |
-| - | - | hgs6417@gmail.com | - |
+| - | deliabs@naver.com | - | - |
