@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일\pic">
+      <UniqueIdentifier>{cd1c0a19-9f13-4a44-99a6-773edc4d3781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\rank_db">
+      <UniqueIdentifier>{85a4ba25-100d-4711-8248-a67d29d66057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\font">
+      <UniqueIdentifier>{c64665e3-6c68-48e7-b347-55b468ac4312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\audio">
+      <UniqueIdentifier>{58c0efb6-2810-48d8-931c-b35938add953}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="init.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="resource.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="keyboard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="object.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gamescreen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hud.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="level.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="init.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="keyboard.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="object.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="gamescreen.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="hud.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="level.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resource\audio\player_attack.ogg">
+      <Filter>리소스 파일\audio</Filter>
+    </None>
+    <None Include="Resource\audio\monster_hit.ogg">
+      <Filter>리소스 파일\audio</Filter>
+    </None>
+    <None Include="Resource\audio\boss_summon.ogg">
+      <Filter>리소스 파일\audio</Filter>
+    </None>
+    <None Include="Resource\audio\bgm.ogg">
+      <Filter>리소스 파일\audio</Filter>
+    </None>
+    <None Include="Resource\audio\laser.ogg" />
+    <None Include="Resource\audio\laser_reversed.ogg" />
+    <None Include="Resource\audio\mainmenu.ogg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource\pic\fireball.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\goblin_l.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\goblin_r.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\knight_l.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\knight_r.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\player_l.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\player_r.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\money.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\score.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\life.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\player_dead.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback1.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\boss_r.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\boss_l.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\fireball_boss.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\shop_icon.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\bullets.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\damage.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\speed.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\zombie_l.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\zombie_r.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\debuff_select.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait1.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait2.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait3.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait4.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait5.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\laser_wait6.png">
+      <Filter>리소스 파일\pic</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback10.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback2.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback3.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback4.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback5.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback6.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback7.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback8.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\battleback9.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\bat_up.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\goblin_up.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\X.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="Resource\pic\zombie_up.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resource\rank_db\rank.txt">
+      <Filter>리소스 파일\rank_db</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resource\font\DungGeunMo.otf">
+      <Filter>리소스 파일\font</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
