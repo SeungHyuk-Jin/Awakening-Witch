@@ -13,14 +13,12 @@
 
 ---
 
-### 기능 소개 1
-[![Game-function](images/Game-function.png)](images/Game-function.png)
+## 기능 소개
 
-### 기능 소개 2
-[![Game-function2](images/Game-function2.png)](images/Game-function2.png)
-
-### 기능 소개 3
-[![Game-function3](images/Game-function3.png)](images/Game-function3.png)
+| 기능 1 | 기능 2 | 기능 3 |
+|:--:|:--:|:--:|
+| ![Game-function](images/Game-function.png) | ![Game-function2](images/Game-function2.png) | ![Game-function3](images/Game-function3.png) |
+| 플레이어 이동 및 전투 | 적 AI 및 충돌 처리 | 점수 및 UI 시스템 |
 
 ---
 
@@ -30,8 +28,12 @@
 | C    		| MSVC 2019   |
 | Allegro	|  5.2.10.1  |
 
+---
+
 ### 코드 구조 소개
 [![Code](images/Code.png)](images/Code.png)
+
+---
 
 ### 디렉토리 구조
 ```
