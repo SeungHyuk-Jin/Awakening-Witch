@@ -11,16 +11,12 @@
 ### 전체 소개
 [![Game-introduction](images/Game-introduction.png)](images/Game-introduction.png)
 
----
-
-## 기능 소개
+### 기능 소개
 
 | 기능 1 | 기능 2 | 기능 3 |
 |:--:|:--:|:--:|
 | ![Game-function](images/Game-function.png) | ![Game-function2](images/Game-function2.png) | ![Game-function3](images/Game-function3.png) |
-| 플레이어 이동 및 전투 | 적 AI 및 충돌 처리 | 점수 및 UI 시스템 |
-
----
+| 맵과 메뉴,랭킹 | 난이도기준 및 음향 | 캐릭터 및 적 유닛 |
 
 ### 사용 기술
 | 이름                  | 버전    |
@@ -28,12 +24,8 @@
 | C    		| MSVC 2019   |
 | Allegro	|  5.2.10.1  |
 
----
-
 ### 코드 구조 소개
 [![Code](images/Code.png)](images/Code.png)
-
----
 
 ### 디렉토리 구조
 ```
